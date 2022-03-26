@@ -12,7 +12,7 @@ para investigarem os gastos dos parlamentares brasileiros nos anos de
 sobre a Cota para o Exercício da Atividade Parlamentar, a CEAP. Em
 resumo, a CEAP pode ser definida como: “cota única mensal destinada a
 custear os gastos dos deputados exclusivamente vinculados ao exercício
-da atividade parlamentar.” Essa ajuda de custo para os nossos
+da atividade parlamentar. ”Essa ajuda de custo para os nossos
 digníssimos representantes podem cobrir despesas com alimentação,
 transporte, hospedagem, consultoria técnica, combustíveis e entre outras.</p>
 
