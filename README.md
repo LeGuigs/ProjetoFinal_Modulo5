@@ -74,6 +74,10 @@ adequada.
 ><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/dicio_cotaP.csv" target="_blank">Dicionário das Cotas Parlamentares - formato .csv</a>
 
 ><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/dicio_cotaP.csv" target="_blank">Valores das cotas por Estados - formato .csv</a>
+
+><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/Apresenta%C3%A7%C3%A3o%20de%20Projeto%20M5.pptx" target="_blank">Apresentação do Projeto - formato .pptx</a>
+
+><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/requirements.txt" target="_blank">Arquivo Requirements formato .txt</a>
   
 <h2>Apresentação:</h2>
 
